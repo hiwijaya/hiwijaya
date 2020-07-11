@@ -7,6 +7,6 @@ I'm [**Happy Indra Wijaya**](https://hiwijaya.com), a passionate software engine
 
 I'm on personal mission to advance people life and making socioeconomic equality with technology touch. 🚀
 
-Want to reach me? Drop your 💬 to [me@hiwijaya.com](mailto:me@hiwijaya.com)
+Get ☕ with me? Drop your 💬 to [me@hiwijaya.com](mailto:me@hiwijaya.com)
 
 :black_heart: May the force be with you.
