@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hiwijaya/hiwijaya/blob/master/img/alien.gif" alt="Invader" width="128px"/>
+  <img src="https://github.com/hiwijaya/hiwijaya/blob/master/img/alien.gif" alt="Invader" width="64px"/>
 </p>
 
 ### Salam! ✋
