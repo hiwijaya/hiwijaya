@@ -9,4 +9,4 @@ I'm on personal mission to advance people life and making socioeconomic equality
 
 Want to reach me? Drop your 💬 to [me@hiwijaya.com](mailto:me@hiwijaya.com)
 
-⚡ May the force be with you.
+:black_heart: May the force be with you.
