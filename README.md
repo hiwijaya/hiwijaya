@@ -9,4 +9,6 @@ I'm on personal mission to advance people life and making socioeconomic equality
 
 Get ☕ with me? Drop your 💬 to [me@hiwijaya.com](mailto:me@hiwijaya.com)
 
-:black_heart: May the force be with you.
+<br/>
+
+> <i>"Nothing is given. Everything is earned. You work for what you have."</i> - LeBron James
