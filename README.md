@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="https://github.com/hiwijaya/hiwijaya/blob/master/img/alien.gif" alt="Invader" width="64px"/>
-</p>
+``` python
+class HappyIndraWijaya:
 
-### Salam! ✋
-[**Happy Indra Wijaya**](https://hiwijaya.com) is a passionate software engineer from Indonesia. Fueled by strong positive energy to keep learning, forging his skills to deliver quality and value. Detail orientated individual with conviction, disciplines and integrity. He Believed in simplicity and always love start all the things from scratch.
+    def __init__(self):
+        self.username = 'hiwijaya'
+        self.name = 'Happy Indra Wijaya'
+        self.email = 'me@hiwijaya.com'
+        self.web = 'https://hiwijaya.com'
+        self.code = {
+            'frontend': ['ReactJS', 'React Native', 'AngularJS', 'Android', 'Tailwind', 'Gatsby', 'Wordpress'],
+            'backend': ['Java', 'Python', 'Spring', 'Flask', 'SQLAlchemy'],
+            'database': ['PostgreSQL', 'MySQL', 'MongoDB', 'Elasticsearch', 'Realm', 'SQLite'],
+            'devops': ['Docker', 'Kubernetes', 'Nginx', 'Jenkins', 'AWS', 'Digital Ocean', 'Netlify'],
+            'misc': ['Firebase', 'Redis', 'Kibana', 'Logstash', 'Kafka', 'Prometheus']
+        }
 
-He is on personal mission to elevate people life and making socioeconomic equality with technology. 🚀
+    def __str__(self):
+        return self.name
 
-If you wish to reach him through a pretty form, sorry to disappoint you as there is none. Just Drop your 💬 to [me@hiwijaya.com](mailto:me@hiwijaya.com)
 
-<br/>
+if __name__ == '__main__':
+    me = HappyIndraWijaya()
 
-> *"Solve problems, create values."*
+```
