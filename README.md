@@ -1,24 +1,13 @@
-``` python
-class HappyIndraWijaya:
+[![Header](https://raw.githubusercontent.com/hiwijaya/hiwijaya/master/img/header.png "hiwijaya.com")](https://hiwijaya.com/)
 
-    def __init__(self):
-        self.username = 'hiwijaya'
-        self.name = 'Happy Indra Wijaya'
-        self.email = 'me@hiwijaya.com'
-        self.web = 'https://hiwijaya.com'
-        self.code = {
-            'frontend': ['ReactJS', 'React Native', 'AngularJS', 'Android', 'Tailwind', 'Gatsby', 'Wordpress'],
-            'backend': ['Java', 'Python', 'Spring', 'Flask', 'SQLAlchemy'],
-            'database': ['PostgreSQL', 'MySQL', 'MongoDB', 'Elasticsearch', 'Realm', 'SQLite'],
-            'devops': ['Docker', 'Kubernetes', 'Nginx', 'Jenkins', 'AWS', 'Digital Ocean', 'Netlify'],
-            'misc': ['Firebase', 'Redis', 'Kibana', 'Logstash', 'Kafka', 'Prometheus']
-        }
+🛰️ on mission.
 
-    def __str__(self):
-        return self.name
+## Hello world! ✋
 
+My name is **Happy Indra Wijaya**, a software engineer from Indonesia. Currently I am building a solid fondation in backend technologies. I enjoy my time to learn new technologies for weaponize me to solve real-life problems✔️. Java is my primary weapon🪓. I have interested in software architecture and high-scalable applications. As a professional, my goals is to deliver quality and value.
 
-if __name__ == '__main__':
-    me = HappyIndraWijaya()
+In other world, I play chess♟️ and support Lakers🏀. Indomie🍜 is my favourite ones!
 
-```
+If you wish to reach me through a pretty form, sorry to disappoint you as there is none. Just drop your 💬 to me@hiwijaya.com.
+
+Salam.
