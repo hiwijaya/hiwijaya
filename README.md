@@ -55,3 +55,7 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
 If you wish to reach me through a pretty form, sorry to disappoint you as there is none😗. Just drop your 💬 to me@hiwijaya.com and we good👍.
 
 Salam.
+
+<a href="https://www.buymeacoffee.com/hiwijaya" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width=160>
+</a>
