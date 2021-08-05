@@ -2,14 +2,14 @@
 
 ## Hello, world! <img src="https://raw.githubusercontent.com/hiwijaya/hiwijaya/master/img/hi.gif" width="24px">
 
-My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I have high interested in software architecture and high-scalable systems🚀. I'm currently building a solid fondation in backend area and for now Java is my primary weapon🪓.  I Believed in simplicity and always love start all the things from scratch.
+My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I have high interested in software architecture🚧 and high-scalable systems🚀. I'm currently building solid fondation in backend area and for now Java is my primary weapon🪓.
 
 - 🏀 I play Basketball (#41 Power Forward)
 - ♟️ I play Chess (Elo rapid 1606)
 - 🍜 Indomie fanatics
 - 😎 Cool father
 
-### 🔧 Tools
+### 🔨 Tools
 
 ![](https://img.shields.io/badge/java-EB2024?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/python-336D9B?style=for-the-badge&logo=python&logoColor=white)
@@ -33,13 +33,6 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
 ![](https://img.shields.io/badge/NGINX-009137?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=BA1A46)
-![](https://img.shields.io/badge/Codacy-293852?style=for-the-badge&logo=codacy&logoColor=white)
-![](https://img.shields.io/badge/Git-E84D31?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/XD-450135?style=for-the-badge&logo=adobexd&logoColor=F75EEE)
-![](https://img.shields.io/badge/Trello-007AC2?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
