@@ -4,8 +4,8 @@
 
 My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I have high interested in software architecture🚧 and high-scalable systems🚀. I'm currently building solid fondation in backend area and for now Java is my primary weapon🪓.
 
-- 🏀 I play Basketball (#41 Power Forward)
-- ♟️ I play Chess (Elo rapid 1606)
+- 🏀 I play Basketball (PF)
+- ♟️ I play [Chess](https://www.chess.com/member/jetstreme) (Elo Rapid: 1606)
 - 🍜 Indomie fanatics
 - 😎 Cool father
 
@@ -48,7 +48,3 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
 If you wish to reach me through a pretty form, sorry to disappoint you as there is none😗. Just drop your 💬 to me@hiwijaya.com and we good👍.
 
 Salam.
-
-<a href="https://www.buymeacoffee.com/hiwijaya" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width=160>
-</a>
