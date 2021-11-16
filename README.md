@@ -5,7 +5,7 @@
 My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I have high interested in software architecture🚧 and high-scalable systems🚀. I'm currently building solid fondation in backend area and for now Java is my primary weapon🪓.
 
 - 🏀 I play Basketball (PF)
-- ♟️ I play [Chess](https://www.chess.com/member/jetstreme) (Elo Rapid: 1606)
+- ♟️ I play [Chess](https://www.chess.com/member/jetstreme) (Elo Rapid: 1641)
 - 🍜 Indomie fanatics
 - 😎 Cool father
 
