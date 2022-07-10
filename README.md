@@ -33,6 +33,7 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
 ![](https://img.shields.io/badge/NGINX-009137?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <details>
   <summary><b>⚡ GitHub Stats</b></summary>
