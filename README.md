@@ -46,6 +46,6 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
   <img src = "https://activity-graph.herokuapp.com/graph?username=hiwijaya&hide_border=true&theme=nord" >
 </details>
 
-If you wish to reach me through a pretty form, sorry to disappoint you as there is none😗. Just drop your 💬 to me@hiwijaya.com and we good👍.
+If you wish to reach me through a pretty form, sorry to disappoint you as there is none😗. Just drop your 💬 to wijaya.happyindra@gmail.com and we good👍.
 
 Salam.
