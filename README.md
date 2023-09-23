@@ -40,10 +40,9 @@ My name is **Happy Indra Wijaya**, a software engineer from Indonesia🏝️. I 
   <br/>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwijaya&hide=html,ruby,objective-c,starlark&hide_title=true&hide_border=true&layout=compact&langs_count=6&bg_color=2E3440&text_color=88BFCF" height=150/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiwijaya&hide_border=true&theme=nord" height=150/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwijaya&hide=html,ruby,objective-c,starlark&hide_title=true&hide_border=true&layout=compact&langs_count=6&bg_color=2E3440&text_color=88BFCF" height=150/>
   </p>
-  <img src = "https://activity-graph.herokuapp.com/graph?username=hiwijaya&hide_border=true&theme=nord" >
 </details>
 
 If you wish to reach me through a pretty form, sorry to disappoint you as there is none😗. Just drop your 💬 to wijaya.happyindra@gmail.com and we good👍.
